@@ -1,0 +1,17 @@
+# Ignore all files
+*
+
+# Allow directories
+!*/
+
+# Allow specific file extensions
+!*.R
+!*.py
+!*.ipynb
+
+# Allow .gitignore
+!.gitignore
+
+# Allow README files (optional)
+!README*
+!*.md
