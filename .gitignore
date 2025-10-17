@@ -15,4 +15,4 @@
 # Allow README files (optional)
 !README*
 !*.md
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
