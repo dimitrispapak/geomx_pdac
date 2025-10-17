@@ -1,5 +1,5 @@
 # Analysis of GeoMx dataset from PDAC patients in Gustave Roussy.
-## main features
+## Features
 - Descriptive plots and unsupervized analysis like UMAP and PCA plots
 - Enrichment of the annotations with spatial component from image analysis.
 - Differential Expression based on various studied features in our dataset.
